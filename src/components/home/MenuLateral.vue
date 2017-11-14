@@ -83,6 +83,29 @@
                 ]
             },
             {
+                "label" : "Atividades",
+                "menuheader" : true,
+                "icon" : "fa-dashboard",
+                "url" : "#",
+                "subitens" : [
+                    {
+                    "label" : "Trabalho auditoria",
+                    "url" : "/di/",
+                    "icon" : "fa-circle-o"
+                    },
+                    {
+                    "label" : "Capacitação",
+                    "url" : "/de/",
+                    "icon" : "fa-circle-o"
+                    },
+                    {
+                    "label" : "Esportiva",
+                    "url" : "/ae/",
+                    "icon" : "fa-circle-o"
+                    }
+                ]
+            },
+            {
                 "label" : "Comunicação",
                 "menuheader" : false,
                 "icon" : "fa-info-circle",

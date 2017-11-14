@@ -168,7 +168,7 @@
         imgfolder: "/src/img/",
         jsfolder: "/src/js/",
         user : {
-            "name" : "Alexander Pierce",
+            "name" : "Zé da Silva",
             "id" : "X3456987",
             "img" : "/src/img/user2-160x160.jpg",
             "department" : "Desenvolvimento Web"
@@ -206,6 +206,11 @@
             {
                 "text" : "5 alocações incompletas",
                 "url" : "/aloca/eu",
+                "icon" : "fa-clock-o"
+            },
+            {
+                "text" : "20 bugs para consertar",
+                "url" : "/dti/eu",
                 "icon" : "fa-clock-o"
             },
             {
