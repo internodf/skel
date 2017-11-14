@@ -1,0 +1,135 @@
+{
+  "dadosGerais": [{
+    "objeto": {
+      "codigoDemanda": "20170000541",
+      "codigoSituacao": "2",
+      "nomeSituacao": "Em andamento",
+      "dataSituacao": null,
+      "prioritaria": null,
+      "dataPrevistaConclusao": "06/02/2018",
+      "dataLimiteConclusao": "07/02/2018",
+      "inicioRealizacao": "14/11/2017",
+      "fimRealizacao": "",
+      "codigoGedip": "778811",
+      "dataGedip": "09/11/2017",
+      "codigoFormaDeteccao": "11",
+      "nomeFormaDeteccao": "Auditoria",
+      "outraFormaDeteccao": null,
+      "codigoEnquadramento": "21",
+      "nomeEnquadramento": "Comportamental - Desvio de Comportamento",
+      "codigoEncaminhamento": "28",
+      "nomeEncaminhamento": "Desdobramento de Ação Disciplinar - Relatório de Ação Disciplinar",
+      "prefixoDemandante": "1606",
+      "nomeDemandante": "erro",
+      "prefixoRelacionamento": "8375",
+      "nomeRelacionamento": "GA GOIÂNIA",
+      "prefixoExecutora": "8375",
+      "nomeExecutora": "GA GOIÂNIA",
+      "unidadesEnvolvidas": [{
+        "codigo": "1606",
+        "nome": "erro"
+      }],
+      "objetosEnvolvidos": [],
+      "pmis": [],
+      "dataPrimeiraOcorrencia": "01/02/2017",
+      "dataUltimaOcorrencia": "01/08/2017",
+      "sintese": "Nunca é demais lembrar o peso e o significado destes problemas, uma vez que a constante divulgação das informações cumpre um papel essencial na formulação do investimento em reciclagem técnica.Nunca é demais lembrar o peso e o significado destes problemas, uma vez que o aumento do diálogo entre os diferentes setores produtivos aponta para a melhoria dos índices pretendidos.",
+      "parecer": "Assim mesmo, a crescente influência da mídia talvez venha a ressaltar a relatividade do sistema de formação de quadros que corresponde às necessidades. Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a competitividade nas transações comerciais auxilia a preparação e a composição do processo de comunicação como um todo. "
+    },
+    "mensagem": "",
+    "status": "OK",
+    "titulo": ""
+  }],
+  "equipe" : [
+    {
+        "objeto": {
+            "codigoDemanda": "20170000541",
+            "apuradores": [
+                {
+                    "codigoDemanda": null,
+                    "codigoApurador": "F4444018",
+                    "nomeApurador": "erro",
+                    "prefixoGA": "8375",
+                    "nomeGA": "GA GOIÂNIA",
+                    "inicio": "09/11/2017",
+                    "fim": "",
+                    "codigoFuncao": "3",
+                    "nomeFuncao": "Apuração"
+                },
+                {
+                    "codigoDemanda": null,
+                    "codigoApurador": "F0080119",
+                    "nomeApurador": "erro",
+                    "prefixoGA": "8375",
+                    "nomeGA": "GA GOIÂNIA",
+                    "inicio": "09/11/2017",
+                    "fim": "",
+                    "codigoFuncao": "3",
+                    "nomeFuncao": "Apuração"
+                },
+                {
+                    "codigoDemanda": null,
+                    "codigoApurador": "F1604019",
+                    "nomeApurador": "erro",
+                    "prefixoGA": "8375",
+                    "nomeGA": "GA GOIÂNIA",
+                    "inicio": "09/11/2017",
+                    "fim": "",
+                    "codigoFuncao": "3",
+                    "nomeFuncao": "Apuração"
+                }
+            ]
+        },
+        "mensagem": "",
+        "status": "OK",
+        "titulo": ""
+    }
+  ],
+  "envolvidos" : [
+    {
+        "objeto": {
+            "codigoDemanda": "20170000541",
+            "arrolados": [],
+            "envolvidos": [
+                {
+                    "codigoDemanda": "20170000541",
+                    "codigoFuncionario": "F3162083",
+                    "nomeFuncionario": "erro",
+                    "codigoCargoEpoca": "13",
+                    "nomeCargoEpoca": "implementar",
+                    "codigoCargoAtual": null,
+                    "nomeCargoAtual": null,
+                    "codigoParticipacao": null,
+                    "nomeParticipacao": null,
+                    "principalAdministrador": null,
+                    "estabilidadeProvisoria": null,
+                    "termoCiencia": null,
+                    "funcionarioAfastado": null,
+                    "ritoSumario": null,
+                    "ouvido": "Não"
+                },
+                {
+                    "codigoDemanda": "20170000541",
+                    "codigoFuncionario": "F2718929",
+                    "nomeFuncionario": "erro",
+                    "codigoCargoEpoca": "7112",
+                    "nomeCargoEpoca": "implementar",
+                    "codigoCargoAtual": null,
+                    "nomeCargoAtual": null,
+                    "codigoParticipacao": null,
+                    "nomeParticipacao": null,
+                    "principalAdministrador": null,
+                    "estabilidadeProvisoria": null,
+                    "termoCiencia": null,
+                    "funcionarioAfastado": null,
+                    "ritoSumario": null,
+                    "ouvido": "Não"
+                }
+            ]
+        },
+        "mensagem": "",
+        "status": "OK",
+        "titulo": ""
+    }
+  ]
+}
